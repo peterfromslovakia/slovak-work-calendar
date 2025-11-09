@@ -70,7 +70,7 @@ You need to have [Node.js](https://nodejs.org/) (which includes npm) installed.
 
     npm run dev
 
-   By default, the app will start on http://localhost:5173.
+   By default, the app will start on http://localhost:3000 or 5173.
 
 4. **Build for production:**
 
