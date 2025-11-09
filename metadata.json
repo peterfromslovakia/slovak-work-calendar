@@ -1,0 +1,5 @@
+{
+  "name": "Pracovný Kalendár",
+  "description": "A Slovak work calendar for 2025-2030. Users can track different event types (vacation, home office, etc.), manage their vacation allowance, view holidays and name days, and export/import their data. The application features a modern, clean design and operates entirely on the frontend.",
+  "requestFramePermissions": []
+}
