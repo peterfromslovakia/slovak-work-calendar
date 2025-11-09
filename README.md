@@ -82,18 +82,4 @@ You need to have [Node.js](https://nodejs.org/) (which includes npm) installed.
 
    The optimized files will be located in the `dist` directory.
 
----
-
-## 📦 Release Downloads
-
-You can also download the ready-to-use build from the releases page:
-
-➡️ **Latest Release:** https://github.com/peterfromslovakia/slovak-work-calendar/releases
-
----
-
-## 💬 About
-
-👨‍💻 Created by [**Peter Obala**](https://github.com/peterfromslovakia)  
-🇸🇰 *Made with love and coffee in Slovakia* ☕
 
